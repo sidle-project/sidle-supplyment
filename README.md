@@ -3,7 +3,7 @@
 This directory hosts companion materials for the SIDLE project.
 
 ## Contents
-- [appendix.pdf](appendix.pdf): Implementation details of the SIDLE framework, a worked example, and guidance on migration under different concurrency strategies.
+- [appendix.pdf](appendix.pdf): Implementation details of the SIDLE framework, along with guidelines for user integration, a worked example, and guidance on migration under different concurrency strategies.
 - [tla/](tla/): TLA+ models and configurations that provide correctness proofs for migrations across multiple concurrency strategies.
 
 ### TLA+ assets
